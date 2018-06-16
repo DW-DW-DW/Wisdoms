@@ -1,0 +1,4 @@
+# Wisdoms
+
+- Spring Boot
+- MongoDB
