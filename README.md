@@ -10,4 +10,9 @@ Technologies used:
 - Java 1.8
 - Maven
 - Spring Boot
+
+
+TODO:
 - MongoDB
+- Swagger
+- Spring security
